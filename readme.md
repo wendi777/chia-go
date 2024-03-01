@@ -7,7 +7,7 @@ This is a library for interacting with crypto statistics APIs using a datasource
  * Nomics
  * CoinGecko
 
- NOTE: This library is missing many  functions from each  of the datasource  APIs it supports. It's likely that functions will be added at an as-needed basis.
+ NOTE: This library is missing many  functions from each  of the datasource  APIs it supports.  It's likely that   will be added at an as-needed basis.
 
 ## Usage
 
